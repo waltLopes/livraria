@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --corF: rgb(5, 53, 3);
+}
+body{
+    background-color: var(--corF);
+}
+h1{
+    background-color: white;
+    color: var(--corF);
+}
+
+
+.cabecalho{
+    margin-top: 20px;
+}
+.cabecalho>img{
+    width: 50px;
+
+}
